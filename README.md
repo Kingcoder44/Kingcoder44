@@ -1,30 +1,62 @@
-<h1 align="center">Hi 👋, I'm Kingcoder44</h1>
-<h3 align="center">"3rd Year B.Tech Student | Android Development Enthusiast | Experienced in ML, UI/UX | Proficient in Python, Java, Kotlin, and C"</h3>
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Abyssinica+SIL&size=21&pause=1000&color=F70000&background=72684E00&center=true&vCenter=true&width=435&lines=Hello+there!;Kingcoder44+welcomes+you!)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kingcoder44&label=Profile%20views&color=0e75b6&style=flat" alt="kingcoder44" /> </p>
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kingcoder44&theme=synthwave)
 
-- 🔭 I’m currently working on **Multiple Disease Prediction System using Machine Learning**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kingcoder44&&show_icons=true&theme=2077)
 
-- 🌱 I’m currently learning **Android app development**
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kingcoder44&&theme=buefy-dark)](https://git.io/streak-stats) -->
 
-- 💬 Ask me about **DSA,java and machine learning algorithms**
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kingcoder44&&theme=2077) 
 
-- 📫 How to reach me **skushagra645@gmail.com**
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kingcoder44&&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kingcoder44&&theme=2077)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mLpVNoX4egNhRguMmU7b-lqDyDXqt16z/view?usp=drive_link](https://drive.google.com/file/d/1mLpVNoX4egNhRguMmU7b-lqDyDXqt16z/view?usp=drive_link)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kingcoder44&&theme=2077) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kingcoder44&&theme=2077&utcOffset=8)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kushagra-srivastava-163734216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kushagra-srivastava-163734216" height="30" width="40" /></a>
-<a href="https://instagram.com/skushagra645" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="skushagra645" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/skushagra645" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="skushagra645" height="30" width="40" /></a>
+<a href="https://t.me/liegemaximo">
+  <img align="left" alt="Obsidian's Telegram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
+</a>
+ 
+<p align="center">
+ <img src="https://komarev.com/ghpvc/?username=Kingcoder44&&style=flat-square"/>
+ 
+ 
+ <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DKingcoder44&&longCache=true"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kingcoder44&show_icons=true&locale=en&layout=compact" alt="kingcoder44" /></p>
+<img src="https://img.shields.io/badge/-Mint-87CF3E?logo=LinuxMint&logoColor=fff"/>
+<img src="https://img.shields.io/badge/-AOSP-023020?logo=Android&logoColor=fffhttps://img.shields.io/badge/-AOSP-3DDC84?logo=Android&logoColor=fff"/>
+<img src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=fff"/>
+<img src="https://img.shields.io/badge/-Bash-4E8825?logo=GNUBash&logoColor=fff"/>
+<img src="https://img.shields.io/badge/-Kernel-A8B9CC?logo=C&logoColor=fff"/>
+<img src="https://img.shields.io/badge/-CPP-black?logo=c%2B%2B&style=social"/>
+<img src="https://img.shields.io/badge/-Py.-3776AB?logo=Python&logoColor=fff"/>
+<img src="https://img.shields.io/badge/-Bots-5865F2?logo=Discord&logoColor=fff"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kingcoder44&show_icons=true&locale=en" alt="kingcoder44" /></p>
+<img src="https://img.shields.io/badge/-Bots-26A5E4?logo=Telegram&logoColor=fff"/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kingcoder44&" alt="kingcoder44" /></p>
+
+
+
+</p>
+
+
+<p align="center">
+
+
+
+<!--
+For Statistics:
+https://github-readme-stats.vercel.app/api?username=suyashpatil400&count_private=true&show_icons=true&theme=radical
+ 
+For Top Languages:
+https://github-readme-stats.vercel.app/api/top-langs/?username=SUYASHPATIL400&show_icons=true&theme=radical
+ 
+For Adding Icons to profile:
+https://img.shields.io/badge/-HTML-e34f26?logo=html5&logoColor=fff
+
+For icons:
+
+    https://simpleicons.org/
+-->
