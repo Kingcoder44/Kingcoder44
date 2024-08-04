@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **skushagra645@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mLpVNoX4egNhRguMmU7b-lqDyDXqt16z/view?usp=drive_link](https://drive.google.com/file/d/1mLpVNoX4egNhRguMmU7b-lqDyDXqt16z/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1WG5NOCNpAqSfUMQVrrbUXhZTXU61E3-wY56UahBRlC0/edit?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
