@@ -40,9 +40,6 @@
   <a href="https://instagram.com/skushagra645" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="45" />
   </a>
-  <a href="https://leetcode.com/skushagra645" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="45" alt="LeetCode" />
-  </a>
 </p>
 
 ---
