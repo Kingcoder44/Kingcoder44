@@ -22,7 +22,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coder gif" />
 </p>
 
-- 🎓 Final-year B.Tech CSE student at Amity University  
+- 🎓 Final-year B.Tech CSE student
 - 💡 Passionate about **Android development**, **ML**, and **beautiful UI design**  
 - 🔧 Skilled in **Kotlin**, **Java**, **Python**, and **modern Android tools**  
 - 🧩 Exploring **Jetpack Compose**, **Firebase**, and scalable architectures  
