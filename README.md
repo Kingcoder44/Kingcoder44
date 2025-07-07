@@ -11,7 +11,7 @@
 <h3 align="center">🎓 Final Year B.Tech CSE | 📱 Android Dev | 🤖 ML Explorer | 🎨 UI/UX Designer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kingcoder44&label=Profile%20Views&color=0e75b6&style=plastic" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=kingcoder44-new&label=Profile%20Views&color=10B981&style=for-the-badge" />
 </p>
 
 ---
