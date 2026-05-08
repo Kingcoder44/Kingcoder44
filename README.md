@@ -51,7 +51,7 @@
 </p>
 
 ---
-## 🧑‍💻 Languages Across All My Repos (Public + Private)
+## 🧑‍💻 Languages Across All My Repos
 
 <!-- LANGUAGE_STATS_START -->
 <!-- LANGUAGE_STATS_END -->
