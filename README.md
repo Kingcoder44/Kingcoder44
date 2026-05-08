@@ -51,6 +51,10 @@
 </p>
 
 ---
+## 🧑‍💻 Languages Across All My Repos (Public + Private)
+
+<!-- LANGUAGE_STATS_START -->
+<!-- LANGUAGE_STATS_END -->
 
 ## 📈 GitHub Stats & Activity
 
