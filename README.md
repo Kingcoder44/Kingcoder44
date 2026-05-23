@@ -51,23 +51,13 @@
 </p>
 
 ---
-## 🧑‍💻 Languages Across All My Repos
-
-<!-- LANGUAGE_STATS_START -->
-<!-- LANGUAGE_STATS_END -->
 
 ## 📈 GitHub Stats & Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kingcoder44&show_icons=true&theme=tokyonight&border_radius=15&hide_border=false" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kingcoder44&theme=tokyonight&hide_border=false&border_radius=15" width="47%" />
-</div>
+ <!-- Language Radar -->
+<img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kenshi2727&layout=compact&bg_color=0d1117&title_color=00ff00&text_color=00ff88"/>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kingcoder44&layout=compact&theme=tokyonight&hide_border=false&border_radius=15" width="47%" />
-</div>
+  <!-- 3D Contribution Graph -->
 
 ---
 
